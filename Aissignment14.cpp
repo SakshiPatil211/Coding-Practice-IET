@@ -1,3 +1,11 @@
+/*
+A
+B B
+C C C
+D D D D
+E E E E E
+*/
+
 #include<iostream>
 using namespace std;
 
@@ -33,5 +41,4 @@ int main(){
     }
 
 }
-
 
